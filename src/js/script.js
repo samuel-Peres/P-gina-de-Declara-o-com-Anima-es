@@ -44,4 +44,4 @@ document.querySelector('.next').addEventListener('click', nextSlide);
 document.querySelector('.prev').addEventListener('click', prevSlide);
 
 // Troca automática
-setInterval(nextSlide, 5000);
+setInterval(nextSlide, 3000);

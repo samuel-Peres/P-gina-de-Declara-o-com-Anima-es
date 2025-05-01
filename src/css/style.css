@@ -1,8 +1,8 @@
 body {
     margin: 0;
     font-family: 'Segoe UI', sans-serif;
-    background: linear-gradient(to bottom, #ffd6e0, #ffe9f0);
-    color: #5c1a1b;
+    background: linear-gradient(to bottom, #e45277, #470219);
+    color: #ffffff;
     overflow-x: hidden;
   }
   
@@ -61,7 +61,7 @@ body {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background: rgba(255,255,255,0.7);
+    background: rgba(253, 1, 1, 0.582);
     border: none;
     font-size: 24px;
     cursor: pointer;
@@ -84,10 +84,11 @@ body {
 
   .timeline {
     padding: 40px 20px;
-    background: #fff;
+    background: #ffffff;
     border-radius: 20px;
     margin: 20px;
     box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    color: #470219;
   }
   
   .event {
